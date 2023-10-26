@@ -1,0 +1,17 @@
+.c {
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+}
+.sp{
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+.total {
+    font-weight: 700;
+}
+.b{
+    max-height: 500px; 
+    overflow: scroll;
+}

@@ -1,0 +1,26 @@
+.name {
+    font-weight: bold;
+}
+
+.spp {
+    display: flex;
+    gap: 15px;
+    font-size: large;
+}
+.all {
+    display: flex;
+    justify-content: space-between;
+    border-bottom:  3px solid brown;
+    padding: 10px;
+}
+.add {
+    padding: 10px;
+    height: fit-content;
+    background-color: white;
+    border: 1px solid brown;
+    border-radius: 10px;
+}
+.ab{
+    display: flex;
+    gap: 5px;
+}

@@ -1,0 +1,12 @@
+.ct{
+    font-size: larger;
+    border-radius: 25px;
+    color: white;
+    gap: 5px;
+    
+}
+.cart_span{ 
+    padding: 10px;
+    background-color: rgb(188, 151, 229);
+    border-radius: inherit;
+}
